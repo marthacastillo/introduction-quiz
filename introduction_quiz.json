@@ -1,53 +1,52 @@
 {
-	"quiz": [
-		{
-			"question": "Describe with your own words. What is a Data Platform",
-			"answer": "Conjunto de herramientas para el procesamiento de grandes cantidades de datos"
-		},
-		{
-			"question": "In the 3 V's of big data. How would you describe Variety",
-			"answer": "Es el  formato en el que vamos a encontrar los datos ya sea estructurado o no estructurado"
-		},
-		{
-			"question": "What are the elements of tidy data",
-			"answer": "Datos crudos, Dataset limpio, Diccionario de datos y una explicación clara de como fue que llegamos al resutado"
-		},
-		{
-			"question": "List the most common format files you know for sharing data",
-			"answer": "CSV, XML, JSON, EXCEL, MYSQL"
-		},
-		{
-			"question": "What is web scrapping",
-			"answer": "PROCESO  MEDIANTE EL CUAL SE PUEDE HACREUNA COPIA DE INFORMACION CONTENIDA EN UN SITIO WEB"
-		},
-		{
-			"question": "What is data integration",
-			"answer": "PROCESO DE RECOLECCION DE DATOS DE DIVERSAS FUENTES, CONSOLIDARLOS Y CARGARLOS EN UN A SOLA FUENTE"
-		},
-		{
-			"question": "What is data processing",
-			"answer": "HACE REFERENCIA A LAS ACCIONES QUE SE EJECUTAN SOBRE LOS DATOS Y QUE LOGRAN UNA TRANFORMACION EN ELLOS Y DE ESA MANERA PODER REALIZAR UN ANALISI"
-		},
-		{
-			"question": "Mention some common data processing tasks",
-			"answer": "CLEAN, TRANSFORM, MERGE, RESHAPE"
-		},
-	
-		{
-			"question": "What is Data as a Service",
-			"answer": "DATOS COMO PRODUCTO, ACCESO A LOS DATOS DESDE CUALQUIER PUNTO"
-		},
-		{
-			"question": "What is DataBase as a Service",
-			"answer": "ES UNA BASE DE DATOS PREDEFINIDA EN L NUBE, SIN LA NECESIDAD QUE EL USUARIO SE PREOCUPE POR EL SW O HW QUE DEBE TENER PARA CONSULTAR DICHA BD"
-		},
-		{
-			"question": "What is data anlysis",
-			"answer": "ES PROCESO DE OBTENER, LIMPIAR, DESCRIBIR Y MODELAR LOS DATOS CON EL PROPOSITO DE DESTACAR INFORMACION QUE SEA UTIL PARA LA TOMA DE DECIONES"
-		},
-		{
-			"question": "Mention some typical use cases for data analysis",
-			"answer": "RETENCIÓN TAREAS A REALIZAR PORA QUE LOS CLIENTES NO SE VAYAN. ADQUISICION DE QUE MANERA SE OBTIENEN MAS CLIENTES. USO  COMO ES EL OUTCOME DEL USUARIO"
-		}
-	]	
-}
+"quiz" : [
+      {
+        "question" : "Describe with your own words. What is a Data Platform",
+        "answer" : "Conjunto de herramientas para el procesamiento de grandes cantidades de datos"
+      },
+      {
+        "question" : "In the 3 V's of big data. How would you describe Variety",
+        "answer" : "Es el  formato en el que vamos a encontrar los datos ya sea estructurado o no estructurado"
+      },
+      {
+        "question" : "What are the elements of tidy data",
+        "answer" : "Datos crudos, Dataset limpio, Diccionario de datos y una explicación clara de como fue que llegamos al resutado"
+      },
+      {
+        "question" : "List the most common format files you know for sharing data",
+        "answer" : "CSV, XML, JSON, EXCEL, MYSQL"
+      },
+      {
+        "question" : "What is web scrapping",
+        "answer" : "PROCESO  MEDIANTE EL CUAL SE PUEDE HACREUNA COPIA DE INFORMACION CONTENIDA EN UN SITIO WEB"
+      },
+      {
+        "question" : "What is data integration",
+        "answer" : "PROCESO DE RECOLECCION DE DATOS DE DIVERSAS FUENTES, CONSOLIDARLOS Y CARGARLOS EN UN A SOLA FUENTE"
+      },
+      {
+        "question" : "What is data processing",
+        "answer" : "HACE REFERENCIA A LAS ACCIONES QUE SE EJECUTAN SOBRE LOS DATOS Y QUE LOGRAN UNA TRANFORMACION EN ELLOS Y DE ESA MANERA PODER REALIZAR UN ANALISI"
+      },
+      {
+        "question" : "Mention some common data processing tasks",
+        "answer" : "CLEAN, TRANSFORM, MERGE, RESHAPE"
+      },
+      {
+        "question" : "What is Data as a Service",
+        "answer" : "DATOS COMO PRODUCTO, ACCESO A LOS DATOS DESDE CUALQUIER PUNTO"
+      },
+      {
+        "question" : "What is DataBase as a Service",
+        "answer" : "ES UNA BASE DE DATOS PREDEFINIDA EN L NUBE, SIN LA NECESIDAD QUE EL USUARIO SE PREOCUPE POR EL SW O HW QUE DEBE TENER PARA CONSULTAR DICHA BD"
+      },
+      {
+        "question" : "What is data anlysis",
+        "answer" : "ES PROCESO DE OBTENER, LIMPIAR, DESCRIBIR Y MODELAR LOS DATOS CON EL PROPOSITO DE DESTACAR INFORMACION QUE SEA UTIL PARA LA TOMA DE DECIONES"
+      },
+      {
+        "question" : "Mention some typical use cases for data analysis",
+        "answer" : "RETENCIÓN TAREAS A REALIZAR PORA QUE LOS CLIENTES NO SE VAYAN. ADQUISICION DE QUE MANERA SE OBTIENEN MAS CLIENTES. USO  COMO ES EL OUTCOME DEL USUARIO"
+      }
+    ]
+  }
